@@ -6,7 +6,7 @@ const Skills = () => {
   return (
     <section
       id="skills"
-      className="py-24 pb-24 px-[7vw] lg:px-[10vw] font-sans bg-skills-gradient clip-path-custom"
+      className="relative overflow-hidden py-24 px-[7vw] lg:px-[10vw] font-sans bg-skills-gradient clip-path-custom"
     >
       {/* Section Title */}
       <div className="text-center mb-8">
